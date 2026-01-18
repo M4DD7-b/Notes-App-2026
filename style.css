@@ -27,10 +27,9 @@ body {
 
 .header h1 {
     font-family: "Jacquard 24", monospace;
-    font-size: 4.0rem;
+    font-size: 5rem;
     font-weight: 400;
     color: #5e91ff;
-    margin-bottom: 10px;
 }
 
 .header p {
@@ -50,6 +49,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 15px;
+    padding-bottom: 15px;
 }
 
 @media (min-width: 768px) {
@@ -118,6 +118,7 @@ body {
     grid-template-columns: 1fr;
     gap: 20px;
     margin-bottom: 30px;
+    padding-top: 15px;
 }
 
 @media (min-width: 768px) {
@@ -260,6 +261,7 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
     display: flex;
     align-items: center;
+    justify-content: center;
     z-index: 1000;
     opacity: 0;
     visibility: hidden;
@@ -320,7 +322,7 @@ body {
     margin-bottom: 20px;
 }
 
-form-label {
+.form-label {
     display: block;
     margin-bottom: 8px;
     font-size: 0.9rem;
@@ -466,6 +468,7 @@ form-label {
 
 .confirm-btn:hover {
     background-color: #dc2626;
+    color: white;
 }
 
 .cancel-btn {
