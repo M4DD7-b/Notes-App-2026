@@ -1,11 +1,9 @@
-<a id="readme-top"></a>
-
 <div align="center">
   <a href="https://github.com/M4DD7-b/Notes-App-2026">
     <img 
       src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExYTZ5YWZsNjE3anFvcmFkaHc4bXg1dGYyNmRhankyd3gyZTh2czBiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw%2FGcQ0rc8keAKqsZ0t7z%2Fgiphy.gif&f=1&nofb=1&ipt=2b83746d5b3edea3e34fc052d4975afccce7d9bb8cffe0e69adeb44f12cf3c24"
       alt="Reminder GIF"
-      width="400"
+      width="350"
       height="150"
       />
   </a>
